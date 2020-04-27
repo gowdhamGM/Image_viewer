@@ -19,9 +19,6 @@ Shortcuts:
  * tkinter
  * cx_Freeze (for packaging)
 
-To build executable simply run:
-```bash
-python setup.py build
-```
+
 
 Photo used by [lormet-images](http://lormet-images.deviantart.com/)
